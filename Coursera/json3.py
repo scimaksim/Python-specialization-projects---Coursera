@@ -23,3 +23,9 @@ while True:
         sum += int(item['count'])
 
     print 'The sum of all counts is:', sum
+
+
+
+
+
+
